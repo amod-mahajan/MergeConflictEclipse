@@ -10,4 +10,8 @@ public class HellowWorld {
 		System.out.println("Print something");
 	}
 
+	public static void DoSomething() {
+		System.out.println("Do something");
+	}
+	
 }
